@@ -1,9 +1,9 @@
-# Proyek Submission MPK 
+# Project Submission Kotlin Fundamental Dicoding
 
-**Aturan mengerjakan submission**<br>
-Agar tugas submission dapat diperiksa dan diterima dengan baik, sebaiknya hindari beberapa hal berikut:
+**There are 5 materials and 5 optional exam tested**<br>
 
-- Mengubah kode yang berada di dalam fungsi main()
-- Mengubah (kecuali untuk mengerjakan TODO) atau menghapus kode yang sudah ada
-- Membuat fungsi baru yang bukan merupakan tugas latihan
-- Mengubah struktur project (menghapus, mengubah, atau memindahkan package)
+- Latihan 1 - Fundamental
+- Latihan 2 - Control Flow
+- Latihan 3 - Generics
+- Latihan 4 - Collections
+- Latihan 5 - Coroutines<br>
